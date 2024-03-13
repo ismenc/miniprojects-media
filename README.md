@@ -33,3 +33,9 @@ https://github.com/ismenc/miniprojects-media/assets/12835964/40667b74-af85-4826-
 
 ## smartjoystick
 
+
+https://github.com/ismenc/miniprojects-media/assets/12835964/5141bac0-cc07-4a6d-a2eb-d01bc772e11b
+
+
+https://github.com/ismenc/miniprojects-media/assets/12835964/32812c76-f10a-42b7-80cd-465246dc1757
+
