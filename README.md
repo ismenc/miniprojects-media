@@ -48,3 +48,11 @@ https://github.com/ismenc/miniprojects-media/assets/12835964/5141bac0-cc07-4a6d-
 
 https://github.com/ismenc/miniprojects-media/assets/12835964/32812c76-f10a-42b7-80cd-465246dc1757
 
+## Data science
+
+![gpu-histogram](https://github.com/ismenc/miniprojects-media/assets/12835964/0c45baba-ef48-4cd5-b7ab-740e72d3786b)
+![gpu-dashboard](https://github.com/ismenc/miniprojects-media/assets/12835964/6e9884dd-1771-410b-a4c1-e98d975766da)
+![correlation](https://github.com/ismenc/miniprojects-media/assets/12835964/25a45799-5d21-4c32-8f09-0176c8d368fa)
+![joinplot](https://github.com/ismenc/miniprojects-media/assets/12835964/1f459bc8-ca31-42b5-8282-6e70eb4e22b7)
+
+
