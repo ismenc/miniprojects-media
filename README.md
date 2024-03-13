@@ -2,6 +2,10 @@
 
 
 
+https://github.com/ismenc/miniprojects-media/assets/12835964/b7a9f89c-5efa-457e-b681-5c62599007a2
+
+
+
 https://github.com/ismenc/miniprojects-media/assets/12835964/759c66d3-77b9-4a2b-9cdd-6029491532db
 
 
@@ -25,6 +29,11 @@ https://github.com/ismenc/miniprojects-media/assets/12835964/dd5c2384-ba32-4f50-
 
 
 https://github.com/ismenc/miniprojects-media/assets/12835964/40667b74-af85-4826-8d9a-cd5fcac59540
+
+## Esp32 varios
+
+https://github.com/ismenc/miniprojects-media/assets/12835964/f898d2df-38e6-46fd-a179-dd110a85c51e
+
 
 ## Bitcoin ticker
 
